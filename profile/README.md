@@ -1,5 +1,5 @@
 # Intro
-* Mostaqem is an islamic app that is available on desktop and it's beta on android and soon will be stable
+* Mostaqem is an islamic app for desktop and android
 
 ## Desktop version
 ![Image](https://raw.githubusercontent.com/Mostaqem/.github/refs/heads/main/1.png)
